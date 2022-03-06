@@ -132,7 +132,8 @@
       "json",
       "web.jsx",
       "jsx",
-      "node"
+      "node",
+      "tsx"
     ],
     "watchPlugins": [
       "jest-watch-typeahead/filename",
