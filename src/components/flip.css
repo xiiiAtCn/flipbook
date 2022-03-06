@@ -62,12 +62,11 @@
 .book__page--cover {
   cursor: pointer;
   overflow: hidden;
+  height: 100%;
   left: 0;
 }
 .book__page--cover img {
-  width: 100%;
-  max-width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .hidden {
